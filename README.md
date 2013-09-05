@@ -11,7 +11,7 @@ WindowsNT 5.1-5.3 (XP Service Pack 1,2,3)
 Compiling and Linking
 -----------------------------
 First you must install [WDK 7600](http://www.microsoft.com/en-us/download/details.aspx?id=11800);  
-1). Open *Windows XP*/**x86 Checked Build Environment** from Start Menu;  
+1). Open ".. / *Windows XP* / **x86 Checked Build Environment**" from Start Menu;  
 2). Locate *SSDT_hook* directory in the command prompt;  
-3). Execute **build /cZwbg**
+3). Execute **build /cZwbg**.  
 Now the driver *objchk_wxp_x86\i386\SSDT_hook.sys* is ready to be installed and used by FileHIde.
