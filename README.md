@@ -2,7 +2,7 @@ WinXP SSDT hook driver
 ====================
 This is a device driver used for hiding files from the system by its filename. The output object file *SSDT_hook.sys* from this project is used by FileHide.exe (see [FileHide](../../../FileHide) for more details).  
 
-*This project is part of my thesis defense done in 2010 at Technical University of Sofia(Bulgaria) during my graduation in Faculty of Computer Science and Control (FKSU)*
+*This project is part of my thesis defence done in 2010 at Technical University of Sofia(Bulgaria) during my graduation in Faculty of Computer Science and Control (FKSU)*
 
 System Requirements
 -----------------------------
